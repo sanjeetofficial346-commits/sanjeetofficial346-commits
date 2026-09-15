@@ -57,13 +57,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjeetofficial346-commits&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeetofficial346-commits&theme=radium&hide_border=true" alt="GitHub Streak" />
 </p>
 
-*(Note: Don't forget to replace `YOUR_GITHUB_USERNAME` in the URLs above with your actual GitHub handle!)*
 
 ---
 
